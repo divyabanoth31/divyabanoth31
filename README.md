@@ -48,6 +48,6 @@ Java programming projects and coding practice.
 ## 🤝 Connect With Me
 
 - [GitHub](https://github.com/divyabanoth31)
-- [LinkedIn](https://www.linkedin.com/in/banoth-divya-567593351?utm_source=share_via&utm_content=profile&utm_medium=member_android))]
+- [LinkedIn](https://www.linkedin.com/in/banoth-divya-567593351?utm_source=share_via&utm_content=profile&utm_medium=member_android))
   
 ⭐ Thanks for visiting my profile!
