@@ -33,11 +33,6 @@ Backend development practice, REST APIs and CRUD operations.
 
 [View Repository](https://github.com/divyabanoth31/springbootprojects)
 
-### 💻 Java Projects
-Java programming projects and coding practice.
-
-[View Repository](https://github.com/divyabanoth31/Divyajava)
-
 ## 🌱 Currently Learning
 
 - Java Full Stack Development
