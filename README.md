@@ -30,7 +30,9 @@ Java programs and practice examples covering fundamental programming concepts.
 [View Repository](https://github.com/divyabanoth31/Core-Java)
 
 ### 🔧 Spring Boot Projects
-Backend development practice, REST APIs and CRUD operations.
+Full-stack web applications developed using React.js for the frontend, Spring Boot for the backend, and MySQL for database management. Includes REST API integration and CRUD operations.
+
+Tech Stack: React.js, Spring Boot, Java, MySQL, Axios
 
 [View Repository](https://github.com/divyabanoth31/springbootprojects)
 
