@@ -1,11 +1,10 @@
 
-# Hi, I'm Divya Banoth 👋
+# Hi, I'm Banoth Divya 👋
 
 ### 💻 Aspiring Java Full Stack Developer
 
 B.Tech Computer Science graduate passionate about building real-world web applications and learning new technologies.
 
-- 🔭 Working on **Local Market Finder**
 - 🌱 Learning Java Full Stack Development
 - 💡 Interested in Java, Spring Boot, React.js and MySQL
 
@@ -39,12 +38,6 @@ Java programming projects and coding practice.
 
 [View Repository](https://github.com/divyabanoth31/Divyajava)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyabanoth31&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyabanoth31&layout=compact&theme=default)
-
 ## 🌱 Currently Learning
 
 - Java Full Stack Development
@@ -55,7 +48,7 @@ Java programming projects and coding practice.
 ## 🤝 Connect With Me
 
 - [GitHub](https://github.com/divyabanoth31)
-- [LinkedIn](https://www.linkedin.com/in/banoth-divya567593351/)
+- [LinkedIn]([https://www.linkedin.com/in/banoth-divya567593351/](https://www.linkedin.com/in/banoth-divya-567593351?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
