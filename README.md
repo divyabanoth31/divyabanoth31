@@ -15,7 +15,7 @@ B.Tech Computer Science graduate passionate about building real-world web applic
 - **Frontend:** HTML, CSS, React.js
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code
-- **API Integration: Axios, REST APIs
+- **API Integration:** Axios, REST APIs
 
 ## 🚀 My Projects
 
