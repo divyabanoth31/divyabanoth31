@@ -10,11 +10,12 @@ B.Tech Computer Science graduate passionate about building real-world web applic
 
 ## 🛠️ Technologies & Tools
 
-- **Programming:** Java, JavaScript
-- **Backend:** Spring Boot, JDBC, Servlets
-- **Frontend:** HTML, CSS, React.js
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
+Programming Languages: Java, JavaScript
+Backend: Spring Boot, JDBC, Servlets
+Frontend: HTML, CSS, React.js
+Database: MySQL
+Tools: Git, GitHub, VS Code
+API Integration: Axios, REST APIs
 
 ## 🚀 My Projects
 
