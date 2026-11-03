@@ -20,7 +20,9 @@ B.Tech Computer Science graduate passionate about building real-world web applic
 ## 🚀 My Projects
 
 ### 🏪 Local Market Finder
-A project focused on helping customers discover products available at local kirana stores.
+A full-stack web application developed using React.js for the frontend, Spring Boot for the backend, and MySQL for database management. Includes seller registration, login, product management, REST API integration, and CRUD operations.
+
+[View Repository](https://github.com/divyabanoth31/LocalMarketFinder)
 
 **Tech Stack:** React.js, Axios, Spring Boot, MySQL
 
