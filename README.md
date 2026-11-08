@@ -26,12 +26,12 @@ A full-stack web application developed using React.js for the frontend, Spring B
 
 **Tech Stack:** React.js, Axios, Spring Boot, MySQL
 
-### ☕ Core Java Projects
+### ☕ Core Java concepts
 Java programs and practice examples covering fundamental programming concepts.
 
 [View Repository](https://github.com/divyabanoth31/Core-Java)
 
-### 🔧 Spring Boot Projects
+### 🔧 Employee management Project
 Full-stack web applications developed using React.js for the frontend, Spring Boot for the backend, and MySQL for database management. Includes REST API integration and CRUD operations.
 
 Tech Stack: React.js, Spring Boot, Java, MySQL, Axios
